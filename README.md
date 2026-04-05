@@ -36,4 +36,3 @@ Gå till http://localhost:8000/docs
 - uv
 ```
 
-är allt bra nu?
